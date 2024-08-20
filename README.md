@@ -13,7 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
-
+ ![Alt text](https://res.cloudinary.com/dyv3dluov/image/upload/fl_preserve_transparency/v1724186456/screencapture-to-list-nextjs-server-actions-netlify-app-2024-08-20-23_39_53_w9g1w8.jpg?_s=public-apps)
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
